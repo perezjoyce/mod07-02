@@ -1,0 +1,21 @@
+#doneList li > span {
+	text-decoration: line-through;
+}
+
+#top {
+	display: flex;
+	flex-direction: row;
+}
+
+
+#container {
+	display: flex;
+	width: 600px;
+	flex-direction: column;
+}
+
+/*li {
+	border: 1px solid red;
+}*/
+
+
